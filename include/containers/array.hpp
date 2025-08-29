@@ -1,10 +1,10 @@
 #pragma once
 
-#include <algorithm> // std::equal
-#include <core/_common.hpp>
-#include <cstddef>   // size_t
-#include <iterator>  // std::reverse_iterator
-#include <stdexcept> // std::out_of_range
+#include <algorithm>
+#include <common/_common.hpp>
+#include <cstddef>
+#include <iterator>
+#include <stdexcept>
 
 namespace Marcus {
 
