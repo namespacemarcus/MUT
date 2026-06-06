@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INCLUDE_DIR="./include"
+INCLUDE_DIR="../include"
 
 TOTAL_LINES=0
 
