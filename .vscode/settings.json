@@ -96,5 +96,8 @@
         "netfwd": "cpp",
         "valarray": "cpp"
     },
-    "cmake.buildTask": true
+    "cmake.buildTask": true,
+    "editor.defaultFormatter": "xaver.clang-format",
+    "C_Cpp.clang_format_path": "/usr/bin/clang-format",
+    "clang-format.executable": "/usr/bin/clang-format"
 }
